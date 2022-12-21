@@ -1,0 +1,42 @@
+.flexbox{
+    display: flex;
+    width: 100px;
+    padding: 50px;
+}
+
+.a{
+    padding: 30px;
+    flex: 10%;
+}
+
+.box2{
+    padding: 30px;
+    flex: 10%;
+}
+
+.j1{
+    background-color: rgb(134, 133, 145);
+    width: auto;    
+}
+.j2{
+    background-color: rgb(165, 164, 177);
+    width: auto;
+}
+.b{
+    background-color: brown;
+    color: black;
+    width: auto;
+    text-emphasis: none;
+}
+
+
+.bb{
+    display: flex;
+}
+
+.bbb{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+
